@@ -43,7 +43,7 @@ h1{
     padding: 25px;
 }
 h2{
-    font-size: 40px;
+    font-size: 35px;
 }
 .experiences-part{
     background-image: url(images/exp-bg.png);
@@ -54,7 +54,7 @@ h2{
     width: 40%;
     margin-left:5%;
     margin-right: 5%;
-    padding-left: 22px;
+    padding-left: 32px;
     box-shadow: 10px 10px 40px tomato;
    
 }
